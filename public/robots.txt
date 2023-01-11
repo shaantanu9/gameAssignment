@@ -1,0 +1,57 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www/Pravassy.com
+
+# Sitemaps
+Sitemap: https://www.Pravassy.com/sitemap.xml
+
+# AdsBot
+User-agent: AdsBot-Google
+Allow: /
+Allow: /webstories/
+
+
+# Robots.txt
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# XML-RPC
+XML-RPC: https://www.Pravassy.com/xmlrpc.php
+
+# HTML-Sitemap
+HTML-Sitemap: https://www.Pravassy.com/sitemap_index.xml
+
+# Google Analytics
+Google Analytics: G-8T82W7VS4J
+
+# Google Search Console
+Google Search Console: https://www.google.com/webmasters/tools/home?hl=en&authuser=0
+
+# Bing Search Console
+Bing Search Console: https://www.bing.com/webmaster/home
+
+# Yandex Search Console
+Yandex Search Console: https://webmaster.yandex.com/sites/
+
+# Google Adsense
+Google Adsense: pub-1532475473000178
+
+# Google Images
+Google Images: https://www.google.com/search?q=site:www.Pravassy.com
+
+# Google Web-stories (AMP)
+Google Web-stories: https://www.google.com/search?q=site:www.Pravassy.com
+
+# Google AMP
+Google AMP: https://www.google.com/search?q=site:www.Pravassy.com
+
+# Google AMP Cache
+Google AMP Cache: https://www.google.com/search?q=site:www.Pravassy.com
+
+# Google AMP Stories
+Google AMP Stories: https://www.google.com/search?q=site:www.Pravassy.com
+
